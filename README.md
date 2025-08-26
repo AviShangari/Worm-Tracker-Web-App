@@ -63,7 +63,7 @@ Activate it:
 
 - **Windows**
   ```bash
-  venv\\Scripts\\activate
+  venv\Scripts\activate
   ```
 - **macOS/Linux**
   ```bash
