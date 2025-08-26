@@ -152,7 +152,7 @@ Open that link in your browser.
 
 ## Shutting Down The Web Application
 
-- Press Ctrl + C (Windows) or Command + C (Mac) on both backend and frontend terminals to terminate the program
+- Press `Ctrl + C` (Windows) or `Command + C` (Mac) on both backend and frontend terminals to terminate the program
 
 ---
 
