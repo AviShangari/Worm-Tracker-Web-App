@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+app/uploads/
+app/outputs/
+
+# --- Node / React ---
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Generated / large media ---
+*.zip
+*.mp4
+*.avi
+*.mkv
+*.yaml
+*.npz
+*.log
